@@ -116,7 +116,7 @@
         <span class="pill"><span class="pill-icon">🌐</span> رله آنلاین</span>
         <span class="pill"><span class="pill-icon">🔒</span> رمزنگاری سرتاسر</span>
       </div>
-      <a href="zemzeme-foss-arm64-v8a.apk-signed.apk" class="download-btn fade-in">
+      <a href="https://github.com/whisperbit-labs/zemzeme-android/releases/download/v2.0.0/zemzeme-foss-arm64-v8a.apk-signed.apk" class="download-btn fade-in">
         <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 24 24"><path d="M5 20h14v-2H5v2zm7-18v12l4-4 1.41 1.41L12 16.83 6.59 11.41 8 10l4 4V2z"/></svg>
         دانلود اپلیکیشن
       </a>
